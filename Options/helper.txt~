@@ -1,0 +1,36 @@
+
+
+
+
+				Hello Player !
+
+./Duck_hunt [-OPTION] [-OPTION] ...
+
+   	   [How to use] :
+   	    if you wanna play : Execute the "Duck_Hunt" Binary with no Option.
+	      - Option list (you can add multiple flags) :
+  	         -r : explaining the games rules.
+  	         -G : talk with Gilbert, our personal, pet, duck.
+  	    
+
+Gilbert is our rescued friend. Anyone beating him up is a douch. Dont be a douch. Be nice to Gilbert.
+
+                .-''-.
+               / ,    \
+            .-'`(o)    ;
+           '-==.       |
+                `._...-;-.
+                 )--"""   `-.
+                /   .        `-.
+               /   /      `.    `-.
+               |   \    ;   \      `-._________
+               |    \    `.`.;          -------`.
+                \    `-.   \\\\          `---...|
+                 `.     `-. ```\.--'._   `---...|
+                   `-.....7`-.))\     `-._`-.. /
+                     `._\ /   `-`         `-.,'
+                       / /
+                      /=(_       
+                   -./--' `      Gilbert.
+                 ,^-(_
+                 ,--' `

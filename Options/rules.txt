@@ -1,0 +1,22 @@
+         .-.                                              .-.
+        (. .)__.')                                  (`.__(. .)
+        / V      )            Welcome               (      V \
+  ()    \  (   \/                 Hunter             \/   )  /    ()
+<)-`\()  `._`._ \                                    / _.'_.'  ()/'-(>
+  <)_>=====<<==`'====================================`'==>>=====<_(>
+ <>-'`(>                                                       <)'`-<>	
+   |							       	  |	
+   |	The rules to play this games are pretty simples :	  |
+   |	    	     	       	     	 			  |
+   |	   Ducks spawn on the screen, they will fly around.       |
+   |	   Your goals are to shot (left mouse) them to increase   |
+   |	   your highscore.					  |	
+   |								  |	
+   |		If you get a good score, maybe you could meet...  |
+   |				Gilbert.  			  |	
+   |								  |	
+   |								  |	
+   |	/!\ Boss fight can be annoying. for real. i told ya. /!\  |
+   |								  |
+   |______________________________________________________________|
+	
